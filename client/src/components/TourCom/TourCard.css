@@ -1,0 +1,22 @@
+.header {
+    font-family: 'Hind Guntur', sans-serif;
+    font-size: 2rem;
+}
+.summery {
+    font-family: 'Lato', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.location {
+    font-family: 'Raleway', sans-serif;
+}
+
+.zoom {
+    transition: transform 0.4s;
+}
+    
+.zoom:hover {
+    transform: scale(1.03);
+}

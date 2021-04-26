@@ -1,0 +1,15 @@
+
+.logo{
+    height: 60px;
+    width : 60px;
+}
+
+.item {
+    background-color: #f9f9f9;
+    border : 1px solid #dddddd;
+    margin: 0px
+}
+
+.com{
+    padding-bottom: 4rem;
+}
